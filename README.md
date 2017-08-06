@@ -16,7 +16,7 @@
   <li>CSS3 (SASS)</li>
   <li>Zurb Foundation</li>
   <li>jQuery 3</li>
-  <li>Wordpress</li>
+  <li><a href="http://www.scherer-facility.ch/">Wordpress</a></li>
   <li>GULP</li>
   <li>WebPack</li>
 </ul>
